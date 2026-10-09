@@ -1,0 +1,16 @@
+{
+  "raw_records": 3200,
+  "clean_records": 3199,
+  "duplicate_records_removed": 1,
+  "total_requests": 3199,
+  "resolved_requests": 3035,
+  "open_requests": 128,
+  "cancelled_requests": 36,
+  "avg_assignment_hours": 5.58,
+  "median_assignment_hours": 5.76,
+  "assignment_sla_rate": 87.0,
+  "avg_resolution_hours": 22.05,
+  "reopen_rate": 9.8,
+  "avg_satisfaction": 4.24,
+  "total_estimated_cost_usd": 495161.88
+}
